@@ -4,11 +4,9 @@ Verson:beta
 
 ------
 自己建立的随机图片api  
-目前功能：  
-直接访问 https://lhcfl.github.io/randpic    
-由于Github国内较慢,图片托管在gitee上  
-https://gitee.com/lhcfl/photobed/tree/master/pic
+放在学校一位dalao的服务器上了QAQ
+http://xs.miaom.club/randpic
 
-计划加入
+效果预览：
 
-分类随机
+![](http://xs.miaom.club/randpic)
